@@ -6,6 +6,7 @@ The Smart Attendance System automates attendance using face recognition, voice c
 
 # Features
 Face detection (Haar Cascade) and recognition (LBPH)
+
 Auto-registration for unknown users
 Admin vault with attendance view, block/unblock, and admin roll-call
 Voice control with wake word “hello”
