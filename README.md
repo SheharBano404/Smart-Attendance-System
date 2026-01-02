@@ -33,6 +33,10 @@ CSV/JSON
 # Setup Instructions
 Clone repo
 
+Create the environment folder (python -m venv env)
+
+Activate it Windows: (.\env\Scripts\activate) Linux/MacOS: (source env/bin/activate)
+
 Install dependencies (pip install opencv-contrib-python numpy pillow pywin32 SpeechRecognition) OR pip install -r requirements.txt
 
 Run python smart_attendance.py in VS Code
