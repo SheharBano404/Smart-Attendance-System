@@ -292,7 +292,7 @@ def load_id_map():
         return json.load(f)
 
 
-# ---------------- ATTENDANCE VIEWER (RUNTIME RED/GREEN) -----------------
+# ---------------- ATTENDANCE VIEWER (RUNTIME RED/GREEN) ----------------
 def view_attendance_gui():
     ensure_attendance_file()
 
